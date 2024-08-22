@@ -52,7 +52,7 @@ LLamaPress is designed for everyone—from the least technical to the most techn
 ### 🌱 Our Origin Story
 LLamaPress was born out of necessity. At our SaaS startup/agency, we faced a common problem: users constantly needed new features and customizations. Each business had unique needs, making support expensive and complex.
 
-To solve this, we integrated a chatbot to assist lower-paying users. As we built LLMs into the chatbot, we realized something incredible: the bot was surprisingly effective, particularly because the underlying code was built on Ruby on Rails. That was our "aha" moment, and LLamaPress was born.
+To solve this, we integrated a chatbot to assist our free tier of users. As we built LLMs into the chatbot, we realized something incredible: the bot was surprisingly effective, particularly because the underlying code was built on Ruby on Rails. That was our "aha" moment, and LLamaPress was born.
 
 ## 🏁 Current State of Affairs:
 
