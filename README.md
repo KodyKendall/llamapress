@@ -9,7 +9,7 @@ Welcome to LLamaPress! LLamaPress combines the power of Ruby on Rails and LLMs. 
 ## Why Open Source?
 
 ### 🌐 Economic & Market Forces
-Software development costs are plummeting, thanks to the rise of open source and LLMs. We're leading the charge by merging an open-source CRM/CMS with LLMs, outpacing the competition and offering unparalleled value.
+Software development costs are plummeting, thanks to the rise of open source and LLMs. We're leading the charge by merging an open-source CRM/CMS with LLMs.
 
 ### 👤 User-Centric Reasons
 - **Freedom and Control:** You own your data and your software. No lock-ins, no hidden agendas.
@@ -20,7 +20,7 @@ Software development costs are plummeting, thanks to the rise of open source and
 - **Customizability and Flexibility:** Tailor the platform to your needs, no compromises.
 
 ### 🚀 Strategic Reasons
-The real magic happens when people start building plugins on top of our open-source ecosystem. Think of it like WordPress, but for SaaS.
+The real magic happens when people start building plugins that they can share on top of our open-source ecosystem. Think of it like WordPress, but for SaaS, and with LLMs baked into it on day one.
 
 ## Why Ruby on Rails?
 
