@@ -2,7 +2,7 @@
 
 **An Open-Sourced SaaS Builder for Non-Technical Builders**
 
-Welcome to LLamaPress! LLamaPress combines the power of Ruby on Rails and LLMs. Whether you're a seasoned developer or just starting out, LLamaPress empowers you to build customizable software solutions without the usual overhead using Ruby on Rais.
+Welcome to LLamaPress! LLamaPress combines the power of Ruby on Rails and LLMs. Whether you're a seasoned developer or just starting out, LLamaPress empowers you to build customizable software solutions without the usual overhead using Ruby on Rails.
 
 ![LLamaPress Logo](https://service-jobs-images.s3.us-east-2.amazonaws.com/7rl98t1weu387r43il97h6ipk1l7)
 
